@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+E:\Projects\Graphical Calculator\MyForm.cpp(10,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Graphical Calculator.vcxproj -> E:\Projects\Graphical Calculator\Debug\Graphical Calculator.exe
